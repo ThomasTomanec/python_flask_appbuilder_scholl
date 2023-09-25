@@ -1,0 +1,1129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERZE PROJEKTU\n"
+"Report-Msgid-Bugs-To: EMAIL@ADRESA\n"
+"POT-Creation-Date: 2013-12-07 22:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Jméno Příjmení <EMAIL@ADRESA>\n"
+"Language-Team: JAZYK <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:9
+#: flask_appbuilder/messages.py:9
+msgid "Security"
+msgstr "Zabezpečení"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:10
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:126
+#: flask_appbuilder/messages.py:10 flask_appbuilder/security/views.py:126
+msgid "List Users"
+msgstr "Seznam uživatelů"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:11
+#: flask_appbuilder/messages.py:11
+msgid "Base Permissions"
+msgstr "Základní oprávnění"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:12
+#: flask_appbuilder/messages.py:12
+msgid "Views/Menus"
+msgstr "Zobrazení/Menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:13
+#: flask_appbuilder/messages.py:13
+msgid "Permission on Views/Menus"
+msgstr "Oprávnění na Zobrazení/Menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:14
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:167
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/model/list.html:9
+#: flask_appbuilder/messages.py:14
+#: flask_appbuilder/templates/appbuilder/general/lib.html:167
+#: flask_appbuilder/templates/appbuilder/general/model/list.html:9
+msgid "Search"
+msgstr "Hledat"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:15
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:162
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:173
+#: flask_appbuilder/messages.py:15
+#: flask_appbuilder/templates/appbuilder/general/lib.html:162
+#: flask_appbuilder/templates/appbuilder/general/lib.html:173
+msgid "Back"
+msgstr "Zpět"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:16
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/lib.html:160
+#: flask_appbuilder/messages.py:16
+#: flask_appbuilder/templates/appbuilder/general/lib.html:160
+msgid "Save"
+msgstr "Uložit"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:17
+#: flask_appbuilder/messages.py:17
+msgid "This field is required."
+msgstr "Toto pole je povinné."
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:18
+#: flask_appbuilder/messages.py:18
+msgid "Not a valid date value"
+msgstr "Neplatná hodnota data"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/messages.py:19
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/widgets/list.html:80
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/templates/appbuilder/general/widgets/list_thumbnail.html:55
+#: flask_appbuilder/messages.py:19
+#: flask_appbuilder/templates/appbuilder/general/widgets/list.html:80
+#: flask_appbuilder/templates/appbuilder/general/widgets/list_thumbnail.html:55
+msgid "No records found"
+msgstr "Nebyly nalezeny žádné záznamy"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/upload.py:136
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/upload.py:184
+#: flask_appbuilder/upload.py:136 flask_appbuilder/upload.py:184
+msgid "Invalid file extension"
+msgstr "Neplatná přípona souboru"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/validators.py:33
+#: flask_appbuilder/validators.py:33
+msgid "Already exists."
+msgstr "Již existuje."
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:20
+#: flask_appbuilder/models/datamodel.py:20
+msgid "Added Row"
+msgstr "Přidán řádek"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:21
+#: flask_appbuilder/models/datamodel.py:21
+msgid "Changed Row"
+msgstr "Změněn řádek"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:22
+#: flask_appbuilder/models/datamodel.py:22
+msgid "Deleted Row"
+msgstr "Smazán řádek"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:23
+#: flask_appbuilder/models/datamodel.py:23
+msgid "Associated data exists, please delete them first"
+msgstr "Existují související data, nejprve je smažte"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:24
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:25
+#: flask_appbuilder/models/datamodel.py:24
+#: flask_appbuilder/models/datamodel.py:25
+msgid "Integrity error, probably unique constraint"
+msgstr "Chyba integrity, pravděpodobně jedinečný omezení"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/models/datamodel.py:26
+#: flask_appbuilder/models/datamodel.py:26
+msgid "General Error"
+msgstr "Obecná chyba"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:8
+#: flask_appbuilder/security/forms.py:8
+msgid "openid"
+msgstr "openid"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:9
+#: flask_appbuilder/security/forms.py:9
+msgid "remember_me"
+msgstr "zapamatuj si mě"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:12
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:134
+#: flask_appbuilder/security/forms.py:12 flask_appbuilder/security/views.py:134
+msgid "User Name"
+msgstr "Uživatelské jméno"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:13
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:17
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:135
+#: flask_appbuilder/security/forms.py:13 flask_appbuilder/security/forms.py:17
+#: flask_appbuilder/security/views.py:135
+msgid "Password"
+msgstr "Heslo"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:18
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:142
+#: flask_appbuilder/security/forms.py:18 flask_appbuilder/security/views.py:142
+msgid ""
+"Please use a good password policy, this application does not check this "
+"for you"
+msgstr ""
+"Použijte prosím správnou politiku hesel, tato aplikace to za vás nezkontroluje"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:21
+#: flask_appbuilder/security/forms.py:21
+msgid "Confirm Password"
+msgstr "Potvrďte heslo"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:22
+#: flask_appbuilder/security/forms.py:22
+msgid "Please rewrite the password to confirm"
+msgstr "Prosím, znovu napište heslo pro potvrzení"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/forms.py:23
+#: flask_appbuilder/security/forms.py:23
+msgid "Passwords must match"
+msgstr "Hesla se musí shodovat"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:34
+#: flask_appbuilder/security/views.py:34
+msgid "List Base Permissions"
+msgstr "Seznam základních oprávnění"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:35
+#: flask_appbuilder/security/views.py:35
+msgid "Show Base Permission"
+msgstr "Zobrazit základní oprávnění"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:36
+#: flask_appbuilder/security/views.py:36
+msgid "Add Base Permission"
+msgstr "Přidat základní oprávnění"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:37
+#: flask_appbuilder/security/views.py:37
+msgid "Edit Base Permission"
+msgstr "Upravit základní oprávnění"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:39
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:55
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:218
+#: flask_appbuilder/security/views.py:39 flask_appbuilder/security/views.py:55
+#: flask_appbuilder/security/views.py:218
+msgid "Name"
+msgstr "Název"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:50
+#: flask_appbuilder/security/views.py:50
+msgid "List View Menus"
+msgstr "Seznam zobrazení menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:51
+#: flask_appbuilder/security/views.py:51
+msgid "Show View Menu"
+msgstr "Zobrazit menu zobrazení"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:52
+#: flask_appbuilder/security/views.py:52
+msgid "Add View Menu"
+msgstr "Přidat menu zobrazení"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:53
+#: flask_appbuilder/security/views.py:53
+msgid "Edit View Menu"
+msgstr "Upravit menu zobrazení"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:67
+#: flask_appbuilder/security/views.py:67
+msgid "List Permissions on Views/Menus"
+msgstr "Seznam oprávnění na zobrazení/menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:68
+#: flask_appbuilder/security/views.py:68
+msgid "Show Permission on Views/Menus"
+msgstr "Zobrazit oprávnění na zobrazení/menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:69
+#: flask_appbuilder/security/views.py:69
+msgid "Add Permission on Views/Menus"
+msgstr "Přidat oprávnění na zobrazení/menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:70
+#: flask_appbuilder/security/views.py:70
+msgid "Edit Permission on Views/Menus"
+msgstr "Upravit oprávnění na zobrazení/menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:72
+#: flask_appbuilder/security/views.py:72
+msgid "Permission"
+msgstr "Oprávnění"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:72
+#: flask_appbuilder/security/views.py:72
+msgid "View/Menu"
+msgstr "Zobrazení/Menu"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:85
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:107
+#: flask_appbuilder/security/views.py:85 flask_appbuilder/security/views.py:107
+msgid "Reset Password Form"
+msgstr "Formulář pro obnovení hesla"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:89
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:111
+#: flask_appbuilder/security/views.py:89 flask_appbuilder/security/views.py:111
+msgid "Password Changed"
+msgstr "Heslo změněno"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:127
+#: flask_appbuilder/security/views.py:127
+msgid "Show User"
+msgstr "Zobrazit uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:128
+#: flask_appbuilder/security/views.py:128
+msgid "Add User"
+msgstr "Přidat uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:129
+#: flask_appbuilder/security/views.py:129
+msgid "Edit User"
+msgstr "Upravit uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:131
+#: flask_appbuilder/security/views.py:131
+msgid "Full Name"
+msgstr "Celé jméno"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:132
+#: flask_appbuilder/security/views.py:132
+msgid "First Name"
+msgstr "Jméno"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:133
+#: flask_appbuilder/security/views.py:133
+msgid "Last Name"
+msgstr "Příjmení"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:136
+#: flask_appbuilder/security/views.py:136
+msgid "Is Active?"
+msgstr "Aktivní?"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:137
+#: flask_appbuilder/security/views.py:137
+msgid "EMail"
+msgstr "E-mail"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:138
+#: flask_appbuilder/security/views.py:138
+msgid "Role"
+msgstr "Role"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:139
+#: flask_appbuilder/security/views.py:139
+msgid "Write the user first name or names"
+msgstr "Napište křestní jméno uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:140
+#: flask_appbuilder/security/views.py:140
+msgid "Write the user last name"
+msgstr "Napište příjmení uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:141
+#: flask_appbuilder/security/views.py:141
+msgid "Username valid for authentication on DB or LDAP, unused for OID auth"
+msgstr ""
+"Uživatelské jméno použitelné pro ověření v databázi nebo LDAP, nepoužívá se pro OID ověření"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:143
+#: flask_appbuilder/security/views.py:143
+msgid "Its not a good policy to remove a superuser"
+msgstr "Není dobrá politika odstraňovat superuživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:144
+#: flask_appbuilder/security/views.py:144
+msgid "User Phone"
+msgstr "Telefon uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:145
+#: flask_appbuilder/security/views.py:145
+msgid "User Location"
+msgstr "Uživatelské umístění"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:146
+#: flask_appbuilder/security/views.py:146
+msgid "User Image"
+msgstr "Obrázek uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:147
+#: flask_appbuilder/security/views.py:147
+msgid "Social Auth"
+msgstr "Sociální ověření"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:148
+#: flask_appbuilder/security/views.py:148
+msgid "User Api"
+msgstr "Uživatelské API"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:149
+#: flask_appbuilder/security/views.py:149
+msgid "User Birthday"
+msgstr "Narozeniny uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:150
+#: flask_appbuilder/security/views.py:150
+msgid "User Email"
+msgstr "E-mail uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:151
+#: flask_appbuilder/security/views.py:151
+msgid "User Url"
+msgstr "URL uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:152
+#: flask_appbuilder/security/views.py:152
+msgid "User Twitter"
+msgstr "Twitter uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:153
+#: flask_appbuilder/security/views.py:153
+msgid "User Roles"
+msgstr "Role uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:154
+#: flask_appbuilder/security/views.py:154
+msgid "User Mobile"
+msgstr "Mobil uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:155
+#: flask_appbuilder/security/views.py:155
+msgid "User Phone"
+msgstr "Telefon uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:156
+#: flask_appbuilder/security/views.py:156
+msgid "User Gender"
+msgstr "Pohlaví uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:157
+#: flask_appbuilder/security/views.py:157
+msgid "User SSN"
+msgstr "Rodné číslo uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:158
+#: flask_appbuilder/security/views.py:158
+msgid "User VAT"
+msgstr "DIČ uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:159
+#: flask_appbuilder/security/views.py:159
+msgid "User Company"
+msgstr "Společnost uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:160
+#: flask_appbuilder/security/views.py:160
+msgid "User Job Title"
+msgstr "Pozice uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:161
+#: flask_appbuilder/security/views.py:161
+msgid "User Preferred Language"
+msgstr "Preferovaný jazyk uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:162
+#: flask_appbuilder/security/views.py:162
+msgid "User Home Phone"
+msgstr "Domácí telefon uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:163
+#: flask_appbuilder/security/views.py:163
+msgid "User Address"
+msgstr "Adresa uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:164
+#: flask_appbuilder/security/views.py:164
+msgid "User Home Address"
+msgstr "Domovská adresa uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:165
+#: flask_appbuilder/security/views.py:165
+msgid "User Postal Code"
+msgstr "Poštovní směrovací číslo uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:166
+#: flask_appbuilder/security/views.py:166
+msgid "User Skype"
+msgstr "Skype uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:167
+#: flask_appbuilder/security/views.py:167
+msgid "User Github"
+msgstr "Github uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:168
+#: flask_appbuilder/security/views.py:168
+msgid "User Facebook"
+msgstr "Facebook uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:169
+#: flask_appbuilder/security/views.py:169
+msgid "User Twitter"
+msgstr "Twitter uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:170
+#: flask_appbuilder/security/views.py:170
+msgid "User Date Format"
+msgstr "Formát data uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:171
+#: flask_appbuilder/security/views.py:171
+msgid "User Time Format"
+msgstr "Formát času uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:172
+#: flask_appbuilder/security/views.py:172
+msgid "User Default Url"
+msgstr "Výchozí URL uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:173
+#: flask_appbuilder/security/views.py:173
+msgid "User User Info"
+msgstr "Informace o uživateli"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:174
+#: flask_appbuilder/security/views.py:174
+msgid "User UUID"
+msgstr "UUID uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:175
+#: flask_appbuilder/security/views.py:175
+msgid "User OID"
+msgstr "OID uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:176
+#: flask_appbuilder/security/views.py:176
+msgid "User Email Notification"
+msgstr "E-mailové upozornění uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:177
+#: flask_appbuilder/security/views.py:177
+msgid "User Slack Notification"
+msgstr "Upozornění na Slacku uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:178
+#: flask_appbuilder/security/views.py:178
+msgid "User Hipchat Notification"
+msgstr "Upozornění na Hipchatu uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:179
+#: flask_appbuilder/security/views.py:179
+msgid "User Other"
+msgstr "Ostatní uživatelé"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:180
+#: flask_appbuilder/security/views.py:180
+msgid "User Address"
+msgstr "Adresa uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:181
+#: flask_appbuilder/security/views.py:181
+msgid "User Created On"
+msgstr "Vytvořeno dne uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:182
+#: flask_appbuilder/security/views.py:182
+msgid "User Created By"
+msgstr "Vytvořil uživatel"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:183
+#: flask_appbuilder/security/views.py:183
+msgid "User Changed On"
+msgstr "Změněno dne uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:184
+#: flask_appbuilder/security/views.py:184
+msgid "User Changed By"
+msgstr "Změnil uživatel"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:185
+#: flask_appbuilder/security/views.py:185
+msgid "User Security Manager"
+msgstr "Správce zabezpečení uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:186
+#: flask_appbuilder/security/views.py:186
+msgid "User Risk Level"
+msgstr "Úroveň rizika uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:187
+#: flask_appbuilder/security/views.py:187
+msgid "User Login Count"
+msgstr "Počet přihlášení uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:188
+#: flask_appbuilder/security/views.py:188
+msgid "User Fail Count"
+msgstr "Počet neúspěšných pokusů o přihlášení uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:189
+#: flask_appbuilder/security/views.py:189
+msgid "User Auth Client"
+msgstr "Klient ověření uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:190
+#: flask_appbuilder/security/views.py:190
+msgid "User Identifier"
+msgstr "Identifikátor uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:191
+#: flask_appbuilder/security/views.py:191
+msgid "User Created On"
+msgstr "Vytvořeno dne uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:192
+#: flask_appbuilder/security/views.py:192
+msgid "User Changed On"
+msgstr "Změněno dne uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:193
+#: flask_appbuilder/security/views.py:193
+msgid "User Security Manager"
+msgstr "Správce zabezpečení uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:194
+#: flask_appbuilder/security/views.py:194
+msgid "User Extra"
+msgstr "Další uživatelé"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:195
+#: flask_appbuilder/security/views.py:195
+msgid "User Person"
+msgstr "Osoba uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:196
+#: flask_appbuilder/security/views.py:196
+msgid "User Room"
+msgstr "Místnost uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:197
+#: flask_appbuilder/security/views.py:197
+msgid "User Org"
+msgstr "Organizace uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:198
+#: flask_appbuilder/security/views.py:198
+msgid "User Address"
+msgstr "Adresa uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:199
+#: flask_appbuilder/security/views.py:199
+msgid "User Image"
+msgstr "Obrázek uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:200
+#: flask_appbuilder/security/views.py:200
+msgid "User Location"
+msgstr "Umístění uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:201
+#: flask_appbuilder/security/views.py:201
+msgid "User Phone"
+msgstr "Telefon uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:202
+#: flask_appbuilder/security/views.py:202
+msgid "User Mobile"
+msgstr "Mobil uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:203
+#: flask_appbuilder/security/views.py:203
+msgid "User Url"
+msgstr "URL uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:204
+#: flask_appbuilder/security/views.py:204
+msgid "User Github"
+msgstr "Github uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:205
+#: flask_appbuilder/security/views.py:205
+msgid "User Skype"
+msgstr "Skype uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:206
+#: flask_appbuilder/security/views.py:206
+msgid "User Twitter"
+msgstr "Twitter uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:207
+#: flask_appbuilder/security/views.py:207
+msgid "User Facebook"
+msgstr "Facebook uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:208
+#: flask_appbuilder/security/views.py:208
+msgid "User Other"
+msgstr "Ostatní uživatelé"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:209
+#: flask_appbuilder/security/views.py:209
+msgid "User Icon"
+msgstr "Ikona uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:210
+#: flask_appbuilder/security/views.py:210
+msgid "User Date Format"
+msgstr "Formát data uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:211
+#: flask_appbuilder/security/views.py:211
+msgid "User Time Format"
+msgstr "Formát času uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:212
+#: flask_appbuilder/security/views.py:212
+msgid "User Birthday"
+msgstr "Narozeniny uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:213
+#: flask_appbuilder/security/views.py:213
+msgid "User Twitter"
+msgstr "Twitter uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:214
+#: flask_appbuilder/security/views.py:214
+msgid "User Tags"
+msgstr "Štítky uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:215
+#: flask_appbuilder/security/views.py:215
+msgid "User Custom Field"
+msgstr "Vlastní pole uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:216
+#: flask_appbuilder/security/views.py:216
+msgid "User Main Menu"
+msgstr "Hlavní menu uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:217
+#: flask_appbuilder/security/views.py:217
+msgid "User Short Name"
+msgstr "Krátké jméno uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:218
+#: flask_appbuilder/security/views.py:218
+msgid "User Display Name"
+msgstr "Zobrazované jméno uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:219
+#: flask_appbuilder/security/views.py:219
+msgid "User User Profile"
+msgstr "Uživatelský profil uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:220
+#: flask_appbuilder/security/views.py:220
+msgid "User Created On"
+msgstr "Vytvořeno dne uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:221
+#: flask_appbuilder/security/views.py:221
+msgid "User Created By"
+msgstr "Vytvořil uživatel"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:222
+#: flask_appbuilder/security/views.py:222
+msgid "User Changed On"
+msgstr "Změněno dne uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:223
+#: flask_appbuilder/security/views.py:223
+msgid "User Changed By"
+msgstr "Změnil uživatel"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:224
+#: flask_appbuilder/security/views.py:224
+msgid "User Orgs"
+msgstr "Organizace uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:225
+#: flask_appbuilder/security/views.py:225
+msgid "User View Menu"
+msgstr "Zobrazení nabídky uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:226
+#: flask_appbuilder/security/views.py:226
+msgid "User Permission View"
+msgstr "Povolení zobrazení uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:227
+#: flask_appbuilder/security/views.py:227
+msgid "User Manager Id"
+msgstr "ID správce uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:228
+#: flask_appbuilder/security/views.py:228
+msgid "User Email"
+msgstr "E-mail uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:229
+#: flask_appbuilder/security/views.py:229
+msgid "User Webmail"
+msgstr "Webová pošta uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:230
+#: flask_appbuilder/security/views.py:230
+msgid "User Password"
+msgstr "Heslo uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:231
+#: flask_appbuilder/security/views.py:231
+msgid "User API Key"
+msgstr "Klíč API uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:232
+#: flask_appbuilder/security/views.py:232
+msgid "User User Stats"
+msgstr "Statistiky uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:233
+#: flask_appbuilder/security/views.py:233
+msgid "User OAuth Provider"
+msgstr "Poskytovatel OAuth uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:234
+#: flask_appbuilder/security/views.py:234
+msgid "User LDAP Dn"
+msgstr "LDAP DN uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:235
+#: flask_appbuilder/security/views.py:235
+msgid "User Id"
+msgstr "ID uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:236
+#: flask_appbuilder/security/views.py:236
+msgid "User First Name"
+msgstr "Křestní jméno uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:237
+#: flask_appbuilder/security/views.py:237
+msgid "User Last Name"
+msgstr "Příjmení uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:238
+#: flask_appbuilder/security/views.py:238
+msgid "User Full Name"
+msgstr "Plné jméno uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:239
+#: flask_appbuilder/security/views.py:239
+msgid "User User"
+msgstr "Uživatel"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:240
+#: flask_appbuilder/security/views.py:240
+msgid "User Other"
+msgstr "Ostatní uživatelé"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:241
+#: flask_appbuilder/security/views.py:241
+msgid "User Created On"
+msgstr "Vytvořeno dne uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:242
+#: flask_appbuilder/security/views.py:242
+msgid "User Changed On"
+msgstr "Změněno dne uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:243
+#: flask_appbuilder/security/views.py:243
+msgid "User Security Manager"
+msgstr "Správce zabezpečení uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:244
+#: flask_appbuilder/security/views.py:244
+msgid "User Extra"
+msgstr "Další uživatelé"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:245
+#: flask_appbuilder/security/views.py:245
+msgid "User Person"
+msgstr "Osoba uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:246
+#: flask_appbuilder/security/views.py:246
+msgid "User Room"
+msgstr "Místnost uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:247
+#: flask_appbuilder/security/views.py:247
+msgid "User Org"
+msgstr "Organizace uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:248
+#: flask_appbuilder/security/views.py:248
+msgid "User Address"
+msgstr "Adresa uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:249
+#: flask_appbuilder/security/views.py:249
+msgid "User Image"
+msgstr "Obrázek uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:250
+#: flask_appbuilder/security/views.py:250
+msgid "User Location"
+msgstr "Umístění uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:251
+#: flask_appbuilder/security/views.py:251
+msgid "User Phone"
+msgstr "Telefon uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:252
+#: flask_appbuilder/security/views.py:252
+msgid "User Mobile"
+msgstr "Mobil uživatele"
+
+#: build/lib.linux-x86_64-2.7/flask_appbuilder/security/views.py:253
+#: flask_appbuilder/security/views.py:253
+msgid "User Url"
+msgstr "URL uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:254
+#: flask_appbuilder/security/views.py:254
+msgid "User Github"
+msgstr "Github uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:255
+#: flask_appbuilder/security/views.py:255
+msgid "User Skype"
+msgstr "Skype uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:256
+#: flask_appbuilder/security/views.py:256
+msgid "User Twitter"
+msgstr "Twitter uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:257
+#: flask_appbuilder/security/views.py:257
+msgid "User Facebook"
+msgstr "Facebook uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:258
+#: flask_appbuilder/security/views.py:258
+msgid "User Other"
+msgstr "Ostatní uživatelé"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:259
+#: flask_appbuilder/security/views.py:259
+msgid "User Icon"
+msgstr "Ikona uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:260
+#: flask_appbuilder/security/views.py:260
+msgid "User Date Format"
+msgstr "Formát data uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:261
+#: flask_appbuilder/security/views.py:261
+msgid "User Time Format"
+msgstr "Formát času uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:262
+#: flask_appbuilder/security/views.py:262
+msgid "User Birthday"
+msgstr "Narozeniny uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:263
+#: flask_appbuilder/security/views.py:263
+msgid "User Twitter"
+msgstr "Twitter uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:264
+#: flask_appbuilder/security/views.py:264
+msgid "User Tags"
+msgstr "Štítky uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:265
+#: flask_appbuilder/security/views.py:265
+msgid "User Custom Field"
+msgstr "Vlastní pole uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:266
+#: flask_appbuilder/security/views.py:266
+msgid "User Main Menu"
+msgstr "Hlavní menu uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:267
+#: flask_appbuilder/security/views.py:267
+msgid "User Short Name"
+msgstr "Krátké jméno uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:268
+#: flask_appbuilder/security/views.py:268
+msgid "User Display Name"
+msgstr "Zobrazované jméno uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:269
+#: flask_appbuilder/security/views.py:269
+msgid "User User Profile"
+msgstr "Uživatelský profil uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:270
+#: flask_appbuilder/security/views.py:270
+msgid "User Created On"
+msgstr "Vytvořeno dne uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:271
+#: flask_appbuilder/security/views.py:271
+msgid "User Created By"
+msgstr "Vytvořil uživatel"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:272
+#: flask_appbuilder/security/views.py:272
+msgid "User Changed On"
+msgstr "Změněno dne uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:273
+#: flask_appbuilder/security/views.py:273
+msgid "User Changed By"
+msgstr "Změnil uživatel"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:274
+#: flask_appbuilder/security/views.py:274
+msgid "User Orgs"
+msgstr "Organizace uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:275
+#: flask_appbuilder/security/views.py:275
+msgid "User View Menu"
+msgstr "Zobrazení nabídky uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:276
+#: flask_appbuilder/security/views.py:276
+msgid "User Permission View"
+msgstr "Povolení zobrazení uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:277
+#: flask_appbuilder/security/views.py:277
+msgid "User Manager Id"
+msgstr "ID správce uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:278
+#: flask_appbuilder/security/views.py:278
+msgid "User Email"
+msgstr "E-mail uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:279
+#: flask_appbuilder/security/views.py:279
+msgid "User Webmail"
+msgstr "Webová pošta uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:280
+#: flask_appbuilder/security/views.py:280
+msgid "User Password"
+msgstr "Heslo uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:281
+#: flask_appbuilder/security/views.py:281
+msgid "User API Key"
+msgstr "Klíč API uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:282
+#: flask_appbuilder/security/views.py:282
+msgid "User User Stats"
+msgstr "Statistiky uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:283
+#: flask_appbuilder/security/views.py:283
+msgid "User OAuth Provider"
+msgstr "Poskytovatel OAuth uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:284
+#: flask_appbuilder/security/views.py:284
+msgid "User LDAP Dn"
+msgstr "LDAP DN uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:285
+#: flask_appbuilder/security/views.py:285
+msgid "User Id"
+msgstr "ID uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:286
+#: flask_appbuilder/security/views.py:286
+msgid "User First Name"
+msgstr "Křestní jméno uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:287
+#: flask_appbuilder/security/views.py:287
+msgid "User Last Name"
+msgstr "Příjmení uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:288
+#: flask_appbuilder/security/views.py:288
+msgid "User Full Name"
+msgstr "Plné jméno uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:289
+#: flask_appbuilder/security/views.py:289
+msgid "User User"
+msgstr "Uživatel"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:290
+#: flask_appbuilder/security/views.py:290
+msgid "User Other"
+msgstr "Ostatní uživatelé"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:291
+#: flask_appbuilder/security/views.py:291
+msgid "User Created On"
+msgstr "Vytvořeno dne uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:292
+#: flask_appbuilder/security/views.py:292
+msgid "User Changed On"
+msgstr "Změněno dne uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:293
+#: flask_appbuilder/security/views.py:293
+msgid "User Security Manager"
+msgstr "Správce zabezpečení uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:294
+#: flask_appbuilder/security/views.py:294
+msgid "User Extra"
+msgstr "Další uživatelé"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:295
+#: flask_appbuilder/security/views.py:295
+msgid "User Person"
+msgstr "Osoba uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:296
+#: flask_appbuilder/security/views.py:296
+msgid "User Room"
+msgstr "Místnost uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:297
+#: flask_appbuilder/security/views.py:297
+msgid "User Org"
+msgstr "Organizace uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:298
+#: flask_appbuilder/security/views.py:298
+msgid "User Address"
+msgstr "Adresa uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:299
+#: flask_appbuilder/security/views.py:299
+msgid "User Image"
+msgstr "Obrázek uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:300
+#: flask_appbuilder/security/views.py:300
+msgid "User Location"
+msgstr "Umístění uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:301
+#: flask_appbuilder/security/views.py:301
+msgid "User Phone"
+msgstr "Telefon uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:302
+#: flask_appbuilder/security/views.py:302
+msgid "User Mobile"
+msgstr "Mobil uživatele"
+
+#: build/lib.linux_x86_64-2.7/flask_appbuilder/security/views.py:303
+#: flask_appbuilder/security/views.py:303
+msgid "User Url"
+msgstr "URL uživatele"
